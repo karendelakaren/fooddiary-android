@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "739136431585",
+    "firebase_url": "https://food-diary-62a8f.firebaseio.com",
+    "project_id": "food-diary-62a8f",
+    "storage_bucket": "food-diary-62a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739136431585:android:365dc12f57814613",
+        "android_client_info": {
+          "package_name": "com.karendegraaf.fooddiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739136431585-eejh30n8amltbkmstm2dasjf3sbtmjfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqI_b-t5oWsPvkRf4wg67_CdtlWlGm0WU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
